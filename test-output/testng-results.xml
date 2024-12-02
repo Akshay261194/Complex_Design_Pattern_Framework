@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-13T18:39:39 IST" name="Default suite" finished-at="2024-11-13T18:40:54 IST" duration-ms="74398">
+    <groups>
+    </groups>
+    <test started-at="2024-11-13T18:39:39 IST" name="Default test" finished-at="2024-11-13T18:40:54 IST" duration-ms="74398">
+      <class name="medifix_Page_Tests.Login_Page_Test">
+        <test-method is-config="true" signature="beforeSuiteStart()[pri:0, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:39:39 IST" name="beforeSuiteStart" finished-at="2024-11-13T18:39:39 IST" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteStart -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:39:39 IST" name="beforeEachTest" finished-at="2024-11-13T18:40:29 IST" duration-ms="49378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void medifix_Page_Tests.Login_Page_Test.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="loginTest()[pri:1, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:29 IST" name="loginTest" description="As a user, want to login with valid credentials" finished-at="2024-11-13T18:40:37 IST" duration-ms="7946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:37 IST" name="afterEachTest" finished-at="2024-11-13T18:40:37 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:37 IST" name="beforeEachTest" finished-at="2024-11-13T18:40:44 IST" duration-ms="6818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void medifix_Page_Tests.Login_Page_Test.wrongPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="wrongPassword()[pri:2, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:44 IST" name="wrongPassword" finished-at="2024-11-13T18:40:47 IST" duration-ms="2417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongPassword -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:47 IST" name="afterEachTest" finished-at="2024-11-13T18:40:47 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:47 IST" name="beforeEachTest" finished-at="2024-11-13T18:40:51 IST" duration-ms="4327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void medifix_Page_Tests.Login_Page_Test.wrongUsername()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="wrongUsername()[pri:3, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:51 IST" name="wrongUsername" finished-at="2024-11-13T18:40:53 IST" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongUsername -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:medifix_Page_Tests.Login_Page_Test@5a45133e]" started-at="2024-11-13T18:40:53 IST" name="afterEachTest" finished-at="2024-11-13T18:40:54 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+      </class> <!-- medifix_Page_Tests.Login_Page_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+/apiCommonFunctions/
+/dataSource/
+/desktopCommonFunctions/
+/initializer/
+/knowledgeware_Page_Actions/
+/knowledgeware_Page_Locators/
+/knowledgeware_Page_Tests/
+/medifix_Page_Actions/
+/medifix_Page_Locators/
+/medifix_Page_Tests/
+/mobileCommonFunctions/
+/reporterPkg/
+/souceDemo_PageAction/
+/souceDemo_PageLocators/
+/souceDemo_PageTests/
+/webCommonFunctions/
